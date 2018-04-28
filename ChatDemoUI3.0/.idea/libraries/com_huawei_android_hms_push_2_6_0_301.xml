@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.huawei.android.hms:push-2.6.0.301">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/ebc70f74917b5289cf662635ab13cc095c28e7d0/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/ebc70f74917b5289cf662635ab13cc095c28e7d0/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.android.hms/push/2.6.0.301/15263656f8e3c139ea18e298f5defcca3e5500a7/push-2.6.0.301-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
